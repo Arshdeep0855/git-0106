@@ -1,1 +1,2 @@
+This feature will enhance user authentication.
 This feature will improve login security.
